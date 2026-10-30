@@ -1,0 +1,1 @@
+python analyzer.py "path\to\capture.sr"

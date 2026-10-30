@@ -1,0 +1,24 @@
+77 80 00 03 06 00
+[pos_lo pos_hi servo_id 40] x 5
+checksum
+
+-----------------------------------
+
+Checksum is confirmed: (256 - (sum of all bytes after header)) & 0xFF — i.e. two's complement of the body sum.
+Now the sender script:Created a file, read a fileCreated a file, read a fileKey facts baked in:
+Frame structure confirmed:
+77 80 00 03 06 00
+[d0 d1 flag sid] x 5 servos
+6D 00 40
+checksum  (= (256 - sum(body)) & 0xFF)
+Home positions from packet 449:
+
+Servo 1: 2839 | Servo 2: -2330 | Servo 3 (neck): -36 | Servo 4: 1565 | Servo 5: -1256
+
+Flag meanings:
+
+0x40 = move to position
+0x80 = actively interpolating (controller uses this internally, you send 0x40)
+0xFF/0xFE = idle/holding
+
+The neck left/right values (±1800) are estimates — run it with just the home frame first to confirm the format works, then tune the neck range from your earlier captures. The trajectory data shows servo 3 starts at ~1802 when the robot comes home from the left, so that's a reasonable left endpoint.

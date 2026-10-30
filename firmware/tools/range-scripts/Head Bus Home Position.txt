@@ -1,0 +1,18 @@
+Reading New Head Bus Home Position.sr...
+  11,499,520 samples (11.50s)
+  300 bytes decoded
+
+  10 packets found
+
+ PKT   TIME_MS  TYPE                     LEN  BYTES
+------------------------------------------------------------------------------------------------------------------------
+   1    2370.2ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   2    2386.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   3    2418.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   4    2450.7ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   5    2482.7ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   6    2514.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   7    2546.5ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   8    2578.4ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+   9    2610.5ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5
+  10    2641.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 EF 00 40 01 1E F6 40 02 DE 08 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 E5

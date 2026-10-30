@@ -1,0 +1,23 @@
+# Credentials: copy secrets.example.h to secrets.h locally
+secrets.h
+
+# CAD lives on the workstation for now (decimate before publishing)
+*.stl
+*.blend
+*.blend1
+*.ctb
+*.3mf
+
+# Build output and local tooling
+build/
+.venv/
+__pycache__/
+*.pyc
+*.bak
+*.lnk
+
+# Windows clutter
+desktop.ini
+Thumbs.db
+# Work-in-progress editor folders kept local
+motion-editor/_*/

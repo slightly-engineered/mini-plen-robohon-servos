@@ -1,0 +1,18 @@
+Reading New Leg Bus Home Position.sr...
+  4,382,720 samples (4.38s)
+  300 bytes decoded
+
+  10 packets found
+
+ PKT   TIME_MS  TYPE                     LEN  BYTES
+------------------------------------------------------------------------------------------------------------------------
+   1    2298.9ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   2    2324.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   3    2356.7ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   4    2388.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   5    2420.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   6    2452.5ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   7    2484.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   8    2516.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+   9    2548.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73
+  10    2580.3ms  CMD_BROADCAST             30  77 80 00 03 06 00 9F 05 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 73

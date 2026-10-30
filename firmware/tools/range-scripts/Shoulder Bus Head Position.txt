@@ -1,0 +1,18 @@
+Reading New Shoulder Bus Home Position.sr...
+  8,775,680 samples (8.78s)
+  300 bytes decoded
+
+  10 packets found
+
+ PKT   TIME_MS  TYPE                     LEN  BYTES
+------------------------------------------------------------------------------------------------------------------------
+   1    3049.2ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   2    3075.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   3    3107.7ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   4    3139.7ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   5    3172.0ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   6    3204.3ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   7    3236.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   8    3268.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+   9    3300.8ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
+  10    3332.6ms  CMD_BROADCAST             30  77 80 00 03 06 00 17 0B 40 01 E6 F6 40 02 DC FF 40 03 1D 06 40 04 18 FB 40 05 6D 00 40 F5
