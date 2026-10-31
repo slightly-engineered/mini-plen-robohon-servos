@@ -1,5 +1,7 @@
 # Mini PLEN: RoBoHoN Servos
 
+<img width="400" alt="The assembled mini PLEN with teal 5 mm LED eyes, driven by RoBoHoN actuators" src="docs/images/mini-plen-build.jpg" />
+
 A 3D-printed mini PLEN humanoid driven by actuators salvaged from Sharp RoBoHoN
 (SR01M) robots, with ESP32 firmware that speaks RoBoHoN's serial servo buses
 directly, a browser motion editor, and a browser controller.
