@@ -17,7 +17,7 @@ removed. The same firmware, motion editor and control app are now being
 carried over to the mini PLEN:
 
 - 3D-printed PLEN-style body sized for RoBoHoN actuators
-- 21 RoBoHoN servos (19 body + 2 optional neck)
+- 19 RoBoHoN servos
 - ESP32-S3 controller
 - 4 servo buses (two RoBoHoN donors' leg buses, plus arm/head buses)
 
